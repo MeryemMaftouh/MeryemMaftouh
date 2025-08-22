@@ -2,7 +2,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&color=a855f7&lines=Data+is+the+new+oil+📊;Hello+World+🌍;I'm+Meryem+Maftouh+✨;)
 
 
-## About Me 🙌🏻
+<span style="color:#a855f7">## About Me 🙌🏻</span>
 🎓 Master's in **Big Data & Decision Support**  
 💻 Data Scientist & Data Analyst  
 🌱 Currently learning **Front-End Development** @ ALX ProDev  
@@ -11,7 +11,7 @@
 
 <br>
 
-## Languages • Frameworks • Tools ⚒
+<span style="color:#a855f7">## Languages • Frameworks • Tools ⚒</span>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,laravel,react,nextjs,ts,mysql,git,github,vscode,figma" />
 </a>
@@ -31,7 +31,7 @@
 
 <br>
 
-## Reach Me 📫
+<span style="color:#a855f7">## Reach Me 📫</span>
 <a href="mailto:meryemmaftouh744@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
