@@ -12,18 +12,11 @@
 
 ## 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 • 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 • 𝕋𝕠𝕠𝕝𝕤 ⚒
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,laravel,react,nextjs,ts,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,laravel,react,nextjs,ts,git,github,vscode,figma,mysql,mongodb,postgresql" />
 </a>
 
 <br>
 
-## 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 & 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 🗄️
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,spark,oracle,xampp,postgresql" />
-</a>
-
-<br>
 
 
 
