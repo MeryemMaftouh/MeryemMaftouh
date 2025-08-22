@@ -18,7 +18,7 @@
 
 <br>
 
-**Data Science & AI Stack:**  
+## Data Science & AI Stack:
 🐼 Pandas • 🔢 NumPy • 📊 Matplotlib • 📊 Seaborn • 🤖 scikit-learn • 🧠 Deep Learning • LLMs • Chatbots  
 
 <br>
