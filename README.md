@@ -19,7 +19,7 @@
 <br>
 
 
-## Data Science & AI Stack:
+## 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 & 𝔸𝕀 𝕊𝕥𝕒𝕔𝕜
 
 **Data Manipulation:** 🐼 Pandas • 🔢 NumPy  
 **Visualization:** 📊 Matplotlib • 📊 Seaborn • 📈 Plotly  
