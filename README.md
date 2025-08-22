@@ -17,11 +17,13 @@
 </a>
 
 <br>
+## Data Science & AI Stack:
 
-## Data Science & AI Stack ⚡
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn,keras,torch,chatgpt" />
-</a>
+**Data Manipulation:** 🐼 Pandas • 🔢 NumPy  
+**Visualization:** 📊 Matplotlib • 📊 Seaborn • 📈 Plotly  
+**Machine Learning:** 🤖 scikit-learn • 🧠 TensorFlow • 🔥 PyTorch  
+**AI/LLMs:** 🤖 HuggingFace • 💬 Chatbots • 🧠 Deep Learning
+
 
 
 <br>
