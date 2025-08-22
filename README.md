@@ -18,8 +18,11 @@
 
 <br>
 
-## Data Science & AI Stack:
-🐼 Pandas • 🔢 NumPy • 📊 Matplotlib • 📊 Seaborn • 🤖 scikit-learn • 🧠 Deep Learning • LLMs • Chatbots  
+## Data Science & AI Stack ⚡
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn,keras,torch,chatgpt" />
+</a>
+
 
 <br>
 
