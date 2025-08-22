@@ -18,10 +18,12 @@
 <br>
 
 ## 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 & 𝔸𝕀 𝕊𝕥𝕒𝕔𝕜
-**Data Manipulation:**   🐼 Pandas • 🔢 NumPy  
-**Visualization:**   📊 Matplotlib • 🌈 Seaborn • 📈 Plotly  
-**Machine Learning:**   🤖 scikit-learn • 🧠 TensorFlow • 🔥 PyTorch  
-**AI / LLMs:**   🤖 HuggingFace • 💬 Chatbots • 🧠 Deep Learning  
+
+**𝓓𝓪𝓽𝓪 𝓜𝓪𝓷𝓲𝓹𝓾𝓵𝓪𝓽𝓲𝓸𝓷:** 🐼 Pandas • 🔢 NumPy  
+**𝓥𝓲𝓼𝓾𝓪𝓵𝓲𝔃𝓪𝓽𝓲𝓸𝓷:** 📊 Matplotlib • 🌈 Seaborn • 📈 Plotly  
+**𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:** 🤖 scikit-learn • 🧠 TensorFlow • 🔥 PyTorch  
+**𝓐𝓘 / 𝓛𝓛𝓜𝓼:** 🤖 HuggingFace • 💬 Chatbots • 🧠 Deep Learning
+
 
 <!-- Statistics commented until ready -->
 <!--
