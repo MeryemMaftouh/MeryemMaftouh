@@ -17,6 +17,15 @@
 
 <br>
 
+## 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 & 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 🗄️
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,spark,oracle,xampp,postgresql" />
+</a>
+
+<br>
+
+
 
 ## 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 & 𝔸𝕀 𝕊𝕥𝕒𝕔𝕜
 
