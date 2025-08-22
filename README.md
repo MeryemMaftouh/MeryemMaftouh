@@ -1,8 +1,7 @@
 <!-- Typing SVG Header -->
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&color=a855f7&lines=Data+is+the+new+oil+📊;Hello+World+🌍;I'm+Meryem+Maftouh+✨;)
 
-
-## About Me 🙌🏻
+## 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 🙌🏻
 🎓 Master's in **Big Data & Decision Support**  
 💻 Data Scientist & Data Analyst  
 🌱 Currently learning **Front-End Development** @ ALX ProDev  
@@ -11,34 +10,29 @@
 
 <br>
 
-## Languages • Frameworks • Tools ⚒
+## 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 • 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 • 𝕋𝕠𝕠𝕝𝕤 ⚒
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,laravel,react,nextjs,ts,mysql,git,github,vscode,figma" />
 </a>
 
 <br>
 
-
 ## 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 & 𝔸𝕀 𝕊𝕥𝕒𝕔𝕜
+**Data Manipulation:**   🐼 Pandas • 🔢 NumPy  
+**Visualization:**   📊 Matplotlib • 🌈 Seaborn • 📈 Plotly  
+**Machine Learning:**   🤖 scikit-learn • 🧠 TensorFlow • 🔥 PyTorch  
+**AI / LLMs:**   🤖 HuggingFace • 💬 Chatbots • 🧠 Deep Learning  
 
-**Data Manipulation:** 🐼 Pandas • 🔢 NumPy  
-**Visualization:** 📊 Matplotlib • 📊 Seaborn • 📈 Plotly  
-**Machine Learning:** 🤖 scikit-learn • 🧠 TensorFlow • 🔥 PyTorch  
-**AI/LLMs:** 🤖 HuggingFace • 💬 Chatbots • 🧠 Deep Learning
-
-
-
-<br>
-
-<!-- ## Statistics ⚡
+<!-- Statistics commented until ready -->
+<!--
+## 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤 ⚡
 <div style="display:flex;flex-direction:row;justify-content:center;">
   <img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=MeryemMaftouh&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=true&border_radius=0" alt="readme stats" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeryemMaftouh&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
-</div> -->
+</div>
+-->
 
-<br>
-
-## Reach Me 📫
+## ℝ𝕖𝕒𝕔𝕙 𝕄𝕖 📫
 <a href="mailto:meryemmaftouh744@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
@@ -50,6 +44,3 @@
 <a href="https://github.com/MeryemMaftouh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Profile Views (optional) -->
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=MeryemMaftouh&label=Profile%20views&color=0e75b6&style=flat" alt="MeryemMaftouh" /> -->
