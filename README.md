@@ -1,5 +1,6 @@
 <!-- Typing SVG Header -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Data+is+the+new+oil+📊;Hello+World+🌍;I'm+Meryem+Maftouh+✨;&color=6e9eba)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&color=a855f7&lines=Data+is+the+new+oil+📊;Hello+World+🌍;I'm+Meryem+Maftouh+✨;)
+
 
 ## About Me 🙌🏻
 🎓 Master's in **Big Data & Decision Support**  
