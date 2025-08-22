@@ -22,11 +22,11 @@
 
 <br>
 
-## Statistics ⚡
+<!-- ## Statistics ⚡
 <div style="display:flex;flex-direction:row;justify-content:center;">
   <img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=MeryemMaftouh&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=true&border_radius=0" alt="readme stats" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeryemMaftouh&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
-</div>
+</div> -->
 
 <br>
 
