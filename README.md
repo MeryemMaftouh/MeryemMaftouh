@@ -4,7 +4,6 @@
 ## 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 🙌🏻
 🎓 Master's in **Big Data & Decision Support**  
 🎓 **PhD Candidate in AI & Psychology**(Mental Health Research)
-
 💻 Data Scientist & Data Analyst  
 ✅ Certified Front-End Developer @ ALX ProDev
 ⚡ Passionate about AI, data-driven solutions, and building impactful apps  
