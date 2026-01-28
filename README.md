@@ -2,12 +2,13 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&color=a855f7&lines=Data+is+the+new+oil+📊;Hello+World+🌍;I'm+Meryem+Maftouh+✨;)
 
 ## 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 🙌🏻
+
 🎓 Master's in **Big Data & Decision Support**  
-🎓 **PhD Candidate in AI & Psychology**(Mental Health Research)
-💻 Data Scientist & Data Analyst  
-✅ Certified Front-End Developer @ ALX ProDev
-⚡ Passionate about AI, data-driven solutions, and building impactful apps  
-📚 I love reading, continuous learning, and exploring new technologies  
+🎓 **PhD Candidate** in **AI & Psychology** (Mental Health Research)  
+💻 **Data Scientist & Data Analyst**  
+✅ **Certified Front-End Developer** @ ALX ProDev  
+⚡ Passionate about **AI, data-driven solutions, and building impactful applications**  
+📚 I love **reading, continuous learning, and exploring new technologies**
 
 <br>
 
